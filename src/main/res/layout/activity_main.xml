@@ -9,7 +9,7 @@
         android:layout_height="fill_parent"
         android:orientation="vertical"
         android:gravity="center"
-        android:background="@drawable/">
+        android:background="@drawables/">
 
 
         <TextView
